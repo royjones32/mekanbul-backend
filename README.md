@@ -5,7 +5,7 @@ Bu projede geliştirilen API’lerin Postman üzerinden yapılan test sonuçlar�
 ## API Test Ekran Görüntüleri
 
 ### POST – Mekan Ekle
-![POST Mekan Ekle](tests/post_mekanekle.png)
+![POST Mekan Ekle](TESTS/postmekanekle..png)
 
 ### GET – Yakın Mekanları Listele (GEO Query)
 ![GET GEO](TESTS/getgeoquery.png)
