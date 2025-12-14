@@ -17,4 +17,4 @@ Bu projede geliştirilen API’lerin Postman üzerinden yapılan test sonuçlar�
 ![PUT Mekan Güncelle](tests/put_mekanguncelle.png)
 
 ### DELETE – Mekan Sil
-![DELETE Mekan Sil](deletemekansil.png)
+![DELETE Mekan Sil](TESTS/deletemekansil.png)
