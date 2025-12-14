@@ -1,0 +1,20 @@
+# Mekanbul Backend API
+
+Bu projede geliştirilen API’lerin Postman üzerinden yapılan test sonuçları aşağıda yer almaktadır.
+
+## API Test Ekran Görüntüleri
+
+### POST – Mekan Ekle
+![POST Mekan Ekle](tests/post_mekanekle.png)
+
+### GET – Yakın Mekanları Listele (GEO Query)
+![GET GEO](tests/get_geo.png)
+
+### GET – Tek Mekan Getir
+![GET Tek Mekan](tests/get_tekmekan.png)
+
+### PUT – Mekan Güncelle
+![PUT Mekan Güncelle](tests/put_mekanguncelle.png)
+
+### DELETE – Mekan Sil
+![DELETE Mekan Sil](tests/delete_mekansil.png)
