@@ -11,7 +11,7 @@ Bu projede geliştirilen API’lerin Postman üzerinden yapılan test sonuçlar�
 ![GET GEO](TESTS/getgeoquery.png)
 
 ### GET – Tek Mekan Getir
-![GET Tek Mekan](tests/get_tekmekan.png)
+![GET Tek Mekan](TESTS/gettekmekanıdile.png)
 
 ### PUT – Mekan Güncelle
 ![PUT Mekan Güncelle](tests/put_mekanguncelle.png)
