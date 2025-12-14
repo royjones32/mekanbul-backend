@@ -8,7 +8,7 @@ Bu projede geliştirilen API’lerin Postman üzerinden yapılan test sonuçlar�
 ![POST Mekan Ekle](tests/post_mekanekle.png)
 
 ### GET – Yakın Mekanları Listele (GEO Query)
-![GET GEO](tests/get_geo.png)
+![GET GEO](TESTS/getgeoquery.png)
 
 ### GET – Tek Mekan Getir
 ![GET Tek Mekan](tests/get_tekmekan.png)
